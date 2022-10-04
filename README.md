@@ -31,3 +31,12 @@ $$\frac{x_(pre)+v_(pre)}{\Delta t}$$
 
 $$\frac{v_(pre)+a_(pre)}{\Delta t}$$
 
+## Work in Progress
+
+The following items will likely be appended some point in the future:
+
++ Generating data of displacement and velocity by a *varying* acceleration presented as a function of time.
+
++ 2D and 3D numerical analysis of displacement, velocity and acceleration.
+
++ Exporting as Excel document.
